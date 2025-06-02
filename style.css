@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    padding-top: 8vh;
+    color: rgb(100, 69, 10);
+    text-decoration-line: underline;
+    text-decoration-color: crimson;
+    text-shadow: 2px 1px rgb(220, 150, 25);
+}
+
+#title{
+    margin: auto;
+    vertical-align: middle;
+    width: 75%;
+    height: 200px;
+    background-image: url(img/titlebg.jfif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+a{
+    text-align: center;  
+}
+
+thead,tbody{
+    width: 75px;
+}
+
+a{
+    margin: auto;
+}
